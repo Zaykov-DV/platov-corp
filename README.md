@@ -1,5 +1,5 @@
-# voodoo-rocks
-deployd on GHPages: https://zaykov-dv.github.io/voodoo/
+# platov corp
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
